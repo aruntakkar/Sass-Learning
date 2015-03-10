@@ -1,0 +1,17 @@
+/* Nesting Example in scss */
+
+.container {
+    width: 100%;
+    h1 {
+        color: red;
+    }
+}
+a.myAnchor{
+	color: blue;
+	&:hover{
+		text-decoration: underline;
+	}
+	&:visited{
+		color: purple;
+	}
+}
