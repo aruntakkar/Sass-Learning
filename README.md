@@ -1,4 +1,4 @@
-#The Better Way For Learning Sass
+#The Better Way For Learning Sass By Doing
 
 ## Resources
 
@@ -12,4 +12,4 @@
 
 > **I Given All the Comments in html file For Better learning(Just Follow the link first with these learning.)**
 
-'Happy Coding'
+`Happy Coding` 
